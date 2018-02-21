@@ -80,7 +80,13 @@ h2{
 	      width: 32%;
 	      margin-right 10%;
 }
+#last {
+      color:#8A2BE2;	
+}
 
+#email {
+       color:#8A2BE2;
+}
 .user {
        color: #8A2BE2;
 } 
