@@ -1,0 +1,109 @@
+body {
+     background: #FFFFFF;
+     font-size: 150%;
+     margin: 4%;
+
+}
+	
+header{	
+	background:#FFFFFF;
+	padding: 15px;
+	color:#8A2BE2;
+	display: inline-block;
+	
+}	
+
+header, footer{
+	background: #FFFFFFF;
+}	
+
+
+h1{	
+   color:#8A2BE2;
+   display:inline-block;
+   text-align: right;
+   margin:0;
+}  		
+
+header img{
+        display: inline-block;
+        float: left;
+	width: 25%;
+	border: 0;
+	}
+
+
+h2{
+	color:#8A2BE2;
+	background: #FFFFFF;
+}
+
+#address {
+	 display:block;
+	 color: #000000;
+	 text-align: right;
+	 margin: 0;
+}
+
+#win{
+	color:#FF0000;
+	text-align: center;
+}
+
+#rule {
+      display: inline-block;
+      text-align: right;
+      margin: 0;
+}
+
+#tshirt{
+	display: inline-block;
+	float: left;
+	width:27%;
+	margin-right: 10%;
+}
+
+#list{
+	display: inline-block;
+	border: 2%;
+	margin: 0;
+}
+#comments {
+	  display: inline-block;
+	  text-align: right;
+	  margin 0;
+}
+
+#usercomment {
+	      display: inline-block;
+	      float: left;
+	      width: 32%;
+	      margin-right 10%;
+}
+
+       
+.half {
+	display:inline-block;
+	width : 45%;
+	float: left;
+	margin-right: 2%;	
+}
+
+.whole {
+       clear: both;
+}
+details{ 
+	font-style: italic;
+}
+summary{
+	font-size: normal;
+}
+.center{
+	text-align: left;
+	margin-left: 2%;
+}
+footer{
+	text-align: center;
+	display: inline-block;
+}	
+
